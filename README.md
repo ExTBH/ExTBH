@@ -2,6 +2,9 @@ Hi 👋 My name is Natheer Radhi
 ==============================
 Full Stack Developer
 --------------------
+
+I'm a Full Stack Developer experienced in GoLang and Python for the backed, and Swift/ObjC for iOS Development.
+
 * 🌍  I'm based in Bahrain
 
 ### Skills
