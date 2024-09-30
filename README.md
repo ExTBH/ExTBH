@@ -95,7 +95,3 @@ I'm a Full Stack Developer experienced in GoLang and Python for the backed, and 
 <a href="http://www.github.com/ExTBH"><img
         src="https://github-readme-stats.vercel.app/api?username=ExTBH&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true"
         alt="ExTBH's GitHub stats" /></a>
-
-<a href="https://github.com/ExTBH" align="left"><img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExTBH&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
-        alt="Top Languages" /></a>
